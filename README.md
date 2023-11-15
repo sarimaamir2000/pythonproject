@@ -1,1 +1,1 @@
-# boycott project
+# project
