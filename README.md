@@ -1,1 +1,1 @@
-# pythonproject
+# boycott project
